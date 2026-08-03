@@ -136,7 +136,7 @@ Este proyecto tiene como objetivo:
 
 **Alejandro**
 
-GitHub: https://github.com/TU_USUARIO
+GitHub: https://github.com/adrianpalazon
 
 ---
 
